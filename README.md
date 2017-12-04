@@ -18,6 +18,7 @@ This is a curated list of talks related to the Go programming language. I'll be 
 
 ## 2015
 
+- [Matt Heath - Channeling Failure](https://www.youtube.com/watch?v=lzlGXMnrBgw) `33:59`
 - [Rob Pike - Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) `22:28`
 - [Robert Griesemer - The Evolution of Go](https://www.youtube.com/watch?v=0ReKdcpNyQg) `41:33`
 - [Steve Francia - 7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) `27:57`
