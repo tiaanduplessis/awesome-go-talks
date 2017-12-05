@@ -1,9 +1,7 @@
 
 # Awesome Go Talks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/awesome-go-talks.svg)](https://greenkeeper.io/)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/awesome-go-talks.svg)](https://greenkeeper.io/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 This is a curated list of talks related to the Go programming language. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
@@ -20,6 +18,7 @@ This is a curated list of talks related to the Go programming language. I'll be 
 
 ## 2015
 
+- [Francesc Campoy - Understanding nil](https://www.youtube.com/watch?v=ynoY2xz-F8s) `30:58`
 - [Matt Heath - Channeling Failure](https://www.youtube.com/watch?v=lzlGXMnrBgw) `33:59`
 - [Rob Pike - Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) `22:28`
 - [Robert Griesemer - The Evolution of Go](https://www.youtube.com/watch?v=0ReKdcpNyQg) `41:33`
