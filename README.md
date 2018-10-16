@@ -29,6 +29,10 @@ This is a curated list of talks related to the Go programming language. I'll be 
 - [Robert Griesemer - The Evolution of Go](https://www.youtube.com/watch?v=0ReKdcpNyQg) `41:33`
 - [Steve Francia - 7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) `27:57`
 
+## 2013
+
+- [Rob Pike - Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) `31:22`
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
