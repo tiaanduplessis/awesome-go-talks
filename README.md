@@ -15,6 +15,7 @@ This is a curated list of talks related to the Go programming language. I'll be 
 - [Francesc Campoy - Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI) `49:48`
 - [Liz Rice - A Go Programmer's Guide to Syscalls](https://www.youtube.com/watch?v=01w7viEZzXQ) `34:43`
 - [Sameer Ajmani - Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4) `18:09`
+- [Carmen Andoh - The Why of Go](https://www.infoq.com/presentations/go-concurrency-gc?utm_source=youtube&utm_medium=link&utm_campaign=qcontalks) `48:46`
 
 ## 2016
 
