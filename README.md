@@ -5,6 +5,10 @@
 
 This is a curated list of talks related to the Go programming language. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
+## 2019
+
+- [Chris Hines - Death by 3,000 Timers: Streaming Video-on-Demand for Cable TV](https://www.youtube.com/watch?v=h0s8CWpIKdg) `36:56`
+
 ## 2018
 
 - [Francesc Campoy - The Robustness of Go](https://youtu.be/40d26ZGfhR8) `44:31`
